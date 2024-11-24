@@ -1,0 +1,1 @@
+The rearrange script is used to rearrange names.
