@@ -1,4 +1,8 @@
-#bilal-malik-git-testrepo
+# bilal-malik-git-testrepo
 
-The rearrange script is used to rearrange names.  
-The method rearrange expects last name, first name format and it will rearrange it to first name last name. 
+## rearrange
+The rearrange script is used to rearrange names that are passed in. This method expects input string in (lastname, firstname) format and returns the string in (firstname last name) format.
+
+Examples: 
+print (rearrange("Malik, Bilal")) --> Bilal Malik
+print (rearrange("Blige, Marry M.") --> Marry M. Blige
